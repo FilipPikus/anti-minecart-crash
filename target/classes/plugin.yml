@@ -1,0 +1,4 @@
+name: anti-minecart-crash
+version: '1.0-SNAPSHOT'
+main: filip.hardcorecode.antiMinecartCrash.AntiMinecartCrash
+api-version: '1.20'
